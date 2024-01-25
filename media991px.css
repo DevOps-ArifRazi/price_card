@@ -1,0 +1,49 @@
+    
+    @media screen and (max-width: 991px){
+        .icon{     
+            text-align: center;
+        }
+
+        .day1{
+            margin-top: 50px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .day11{
+            display: flex;
+            gap: 20px;
+            justify-content: space-around;
+         }
+         .day12{
+            display: flex;
+            gap: 20px;
+            justify-content: space-around;
+         }
+
+        .line1{
+            margin-top: 50px;
+            margin-bottom: 30px;
+            width: 90%;
+            margin-left: 20px;
+        }
+        .rate1{
+            margin-top: 60px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+
+        }
+        .rate11{
+            justify-content: space-around;
+            gap: 10px;
+            color: #5D6970;
+            margin-left: 0px;
+        }
+
+        .rate12{
+            justify-content: space-around;
+        }
+   
+
+}
